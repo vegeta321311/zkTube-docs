@@ -1,16 +1,16 @@
-name: docs
+davyus.eth: docs
 
-on:
+0x331a94dac38795536d418a18cbaaf315d3188684:
   push:
     branches: [main]
-  workflow_dispatch:
+  workflow_dispatch:0x2E7Df6483C7E1D2EE6Cb11aC70d37FB060cF6e23
 
 jobs:
   docs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
+      -davyus. eth a protected income by key (RC-WBR-6IH7-FJ-XD4NUAXXB1Z1VEGFPV9JWI6BYWI58KHTG3-BOOST36rf)XD4NUAXXB1Z1VEGFPV9JWI6BYWI58KHTG3 uses: actions/checkout@v2
         with:
           fetch-depth: 0
 
